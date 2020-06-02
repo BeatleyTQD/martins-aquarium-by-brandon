@@ -1,3 +1,19 @@
 .banner {
-    background-color: darkgoldenrod;
+    background-color: #BCD4DE;
+    display: flex;
+}
+
+.banner__logo__image {
+    width: 30%;
+    height: auto;
+    margin: 0px 0px -5px 0px;
+    flex:1;
+}
+
+
+.banner__title {
+    font-size: 7.5vw;
+    text-align: center;
+    text-shadow: 2px 2px 4px #FFBE86;
+    flex:5;
 }

@@ -1,7 +1,21 @@
 .quoteList {
-    background-color: lightyellow;
+    background-color: #eff6ee;
+    display: flex;
+    flex-direction: row;
+    padding: 1.5em 0em;
 }
 
 .quote {
-    background-color: yellow;
+    background-color: #eff6ee;
+    margin: 1.5em;
+    padding: 1.5em;
+    text-align: center;
+    border-radius: 10em;
+    border: #eff6ee 10px outset;
+
+}
+
+.quoteAuthor {
+    font-weight: bold;
+    font-size: 1.15em;
 }

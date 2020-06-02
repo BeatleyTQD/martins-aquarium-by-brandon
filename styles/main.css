@@ -6,6 +6,7 @@
 
 
 .container {
+    background-color: #eff6ee;
     display: flex;
     flex-direction: column;
 }
