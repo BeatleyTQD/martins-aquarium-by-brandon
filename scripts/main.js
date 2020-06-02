@@ -1,3 +1,4 @@
 fishList()
 locationList()
-tipsList()
+tipList()
+quoteList()
