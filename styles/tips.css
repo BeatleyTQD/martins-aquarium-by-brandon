@@ -1,13 +1,24 @@
 .tipList {
-    background-color: #353535;
+    background-color: #eff6ee;
     height: 100%;
     display: flex;
     flex-direction: column;
+    border: 5px;
 }
 
 .tip {
-    background-color: #D9D9D9;
-    font-size: 2rem;
-    padding: .5rem;
-    margin: 1rem;
+    background-color: #eff6ee;
+    font-size: 1.25em;
+    padding: 1.5em;
+    margin: 1em;
+    border-radius: 90px;
+    border: #eff6ee 10px inset;
+}
+
+.tipsTitle {
+    text-align: center;
+    font-size: 3em;
+    margin: 1em 0em;
+    text-shadow: 2px 2px 4px #FFBE86;
+
 }

@@ -35,7 +35,7 @@ const fishCollection = [
         name: "Jason",
         species: "oh god",
         length: "he's coming",
-        location: "for m",
+        location: "for m...",
         food: "...",
         picture:"https://peopledotcom.files.wordpress.com/2019/11/fish-human-face.jpg?crop=4px%2C0px%2C2391px%2C1599.6928571429px&resize=420%2C281"
     },

@@ -1,22 +1,35 @@
 .fishList {
-    background-color: #3C6E71;
+    background-color: #eff6ee;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    margin: 0em 0em 8em 0em;
 }
 
 .fish {
-    background-color: #284B63;
+    background-color: #eff6ee;
+    margin: .5em;
 }
 
 
 .fish__picture {
-    max-width: 20rem;
-    max-height: 20rem;
-    padding: .5rem;
-    margin: .5rem;
+    width:  20em;
+    height: 20em;
+    object-fit:cover;
+    border-radius: 180px;
+    border: #FFBE86 10px outset;
+    transition: transform .4s;
+    filter:drop-shadow(10px 10px 4px #9DACB2)
+}
+
+.fish__picture:hover {
+    transform: scale(1.015) rotate(1deg);
 }
 
 .fish__details {
     font-size: x-large;
 }
+
+.fish__list {
+    list-style-type: none;
+}       

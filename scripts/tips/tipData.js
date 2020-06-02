@@ -1,14 +1,14 @@
 const tipCollection = [
     {
-        tip: "please god help me i only have 12 minutes to go"
+        tip: "You probably haven't heard of them pabst raw denim trust fund, irony crucifix migas try-hard distillery listicle chicharrones tumeric echo park before they sold out brunch."
     },
     {
-        tip: "this website is so ugly i should have kept stocking peanut butter at costco"
+        tip: "Truffaut pinterest selfies, pug fashion axe cold-pressed celiac."
     },
     {
-        tip: "why why why why why why why why why why why why why why"
+        tip: "Heirloom bicycle rights pop-up art party man braid quinoa master cleanse shabby chic. Gluten-free farm-to-table woke fanny pack austin pabst banjo tumblr distillery edison bulb bicycle rights."
     },
     {
-        tip: "Perform a 10% to 25% water change every two weeks"
+        tip: "Bespoke mixtape chartreuse, four loko plaid helvetica tattooed."
     }
 ]

@@ -1,21 +1,27 @@
 .locationList {
-    background-color: #3C6E71;
+    background-color: #eff6ee;
     display: flex;
     justify-content: space-evenly;
 }
 
 .location {
-    background-color: #284B63;
-    margin: 1rem;
+    background-color: #eff6ee;
+    margin: 1em;
 }
 
 
 .location__picture {
-    max-width: 15rem;
-    max-height: 15rem;
+    width:  20em;
+    height: 20em;
+    object-fit:cover;
+    border-radius: 180px;
+    border: #676f54 10px inset;
+    filter:drop-shadow(10px 10px 4px #9DACB2)
 }
 
+
 .location__details {
+    margin: 1.5em;
     text-align: center;
     font-size: x-large;
 }
