@@ -26,7 +26,7 @@ const fishCollection = [
     {
         name: "Melody",
         species: "Blobfish",
-        length: 30,
+        length: 20,
         location: "Deep Deep",
         food: "Existentialism",
         picture:"https://elhstalon.net/wp-content/uploads/2019/09/Blobfish.jpg"
