@@ -15,7 +15,7 @@ const getFishData = () => {
 }
 
 // 3, 6, 9, 12, etc... fish
-const mostHolyFish = () => {
+const mostHolyFish = (fishObject) => {
     const holyFish = []
 
     for (const fishObject of fishCollection) {
