@@ -38,8 +38,15 @@ const showRegularFish = () => {
 
 
 const fishList = () => {
-    // Invoke all three functions here
-    showHolyFish()
-    showSoldierFish()
-    showRegularFish()
-}
+            /*
+                If you don't invoke these functions inside this
+                callback function for the then() method, they won't
+                render anything because there is no data retrieved
+                from the API yet
+            */
+            showHolyFish()
+            showSoldierFish()
+            showRegularFish()
+        }
+    // )
+// }

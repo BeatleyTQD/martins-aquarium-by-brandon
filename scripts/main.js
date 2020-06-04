@@ -1,4 +1,23 @@
-fishList()
-locationList()
-tipList()
-quoteList()
+getFishData().then(
+    () => {
+        fishList()
+    }
+)
+
+getLocationData().then(
+    () => {
+        locationList()
+    }
+)
+
+getQuoteData().then(
+    () => {
+        quoteList()
+    }
+)
+
+getTipData().then(
+    () => {
+        tipList()
+    }
+)
