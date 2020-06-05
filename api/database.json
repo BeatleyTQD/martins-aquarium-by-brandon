@@ -1,110 +1,128 @@
 {
-    "fish": [
+  "fish": [
     {
-        "name": "Carlene",
-        "species": "Mola Mola",
-        "length": 6,
-        "location": "Atlantic Ocean",
-        "food": "Happiness",
-        "picture":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sunfish2.jpg/1200px-Sunfish2.jpg"
+      "id": 1,
+      "name": "Carlene",
+      "species": "Mola Mola",
+      "length": 6,
+      "location": "Atlantic Ocean",
+      "food": "Happiness",
+      "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sunfish2.jpg/1200px-Sunfish2.jpg"
     },
     {
-        "name": "Komal",
-        "species": "Anglerfish",
-        "length": 3,
-        "location": "Deep Deep",
-        "food": "Steak Tartare",
-        "picture":"https://static01.nyt.com/images/2019/07/29/science/29SCI-ANGLERFISH-promo/29SCI-ANGLERFISH-promo-superJumbo.jpg"
+      "id": 2,
+      "name": "Komal",
+      "species": "Anglerfish",
+      "length": 3,
+      "location": "Deep Deep",
+      "food": "Steak Tartare",
+      "picture": "https://static01.nyt.com/images/2019/07/29/science/29SCI-ANGLERFISH-promo/29SCI-ANGLERFISH-promo-superJumbo.jpg"
     },
     {
-        "name": "Gruffydd",
-        "species": "Oarfish",
-        "length": 8,
-        "location": "Mesopelagic",
-        "food": "Unsliced Bread",
-        "picture":"https://external-preview.redd.it/pYMOEFuLKEhOw306jXYPyDAAkJFRdvxCbyjFBzi88eo.jpg?auto=webp&s=67fe3a904474205667a4be8d35d9d0c979fc369c"
+      "id": 3,
+      "name": "Gruffydd",
+      "species": "Oarfish",
+      "length": 8,
+      "location": "Mesopelagic",
+      "food": "Unsliced Bread",
+      "picture": "https://external-preview.redd.it/pYMOEFuLKEhOw306jXYPyDAAkJFRdvxCbyjFBzi88eo.jpg?auto=webp&s=67fe3a904474205667a4be8d35d9d0c979fc369c"
     },
     {
-        "name": "Melody",
-        "species": "Blobfish",
-        "length": 35,
-        "location": "Deep Deep",
-        "food": "Existentialism",
-        "picture":"https://elhstalon.net/wp-content/uploads/2019/09/Blobfish.jpg"
+      "id": 4,
+      "name": "Melody",
+      "species": "Blobfish",
+      "length": 35,
+      "location": "Deep Deep",
+      "food": "Existentialism",
+      "picture": "https://elhstalon.net/wp-content/uploads/2019/09/Blobfish.jpg"
     },
     {
-        "name": "Jason",
-        "species": "oh god",
-        "length": "he's coming",
-        "location": "for m...",
-        "food": "...",
-        "picture":"https://peopledotcom.files.wordpress.com/2019/11/fish-human-face.jpg?crop=4px%2C0px%2C2391px%2C1599.6928571429px&resize=420%2C281"
+      "id": 5,
+      "name": "Jason",
+      "species": "oh god",
+      "length": "he's coming",
+      "location": "for m...",
+      "food": "...",
+      "picture": "https://peopledotcom.files.wordpress.com/2019/11/fish-human-face.jpg?crop=4px%2C0px%2C2391px%2C1599.6928571429px&resize=420%2C281"
     },
     {
-        "name": "Rasmussen",
-        "species": "Axolotl",
-        "length": 9,
-        "location": "Mexico",
-        "food": "Palak Paneer",
-        "picture":"https://cdn.mos.cms.futurecdn.net/hKm2MuLdDLubD6rgeYLeDM-1200-80.jpg"
+      "id": 6,
+      "name": "Rasmussen",
+      "species": "Axolotl",
+      "length": 9,
+      "location": "Mexico",
+      "food": "Palak Paneer",
+      "picture": "https://cdn.mos.cms.futurecdn.net/hKm2MuLdDLubD6rgeYLeDM-1200-80.jpg"
     },
     {
-        "name": "Ancro",
-        "species": "Whale Shark",
-        "length": 33,
-        "location": "Dumpré",
-        "food": "C+ Bass",
-        "picture":"https://i.ytimg.com/vi/i-VMrW42J-0/maxresdefault.jpg"
+      "id": 7,
+      "name": "Ancro",
+      "species": "Whale Shark",
+      "length": 33,
+      "location": "Dumpré",
+      "food": "C+ Bass",
+      "picture": "https://i.ytimg.com/vi/i-VMrW42J-0/maxresdefault.jpg"
     }
-],
-    "locations": [
-        {
-            "picture": "https://caribbeannewsservice.com/now/wp-content/uploads/2017/05/Caribbean-Sea.jpg",
-            "alt": "Beautiful picture of Caribbean Sea",
-            "description": "They should have stopped after the third Pirates movie!"
-        },
-        {
-            "picture": "https://static2.thetravelimages.com/wordpress/wp-content/uploads/2018/12/sunken-ships-5.jpg",
-            "alt": "1935 Shipwreck In The Aegean Sea",
-            "description": "Where did we park again?"
-        },
-        {
-            "picture": "https://i.imgur.com/iwl3w5K.jpg",
-            "alt": "The Grim Reaper telling you to turn around or you will die",
-            "description": "The no-no zone."
-        },
-        {
-            "picture": "https://lovecraftianscience.files.wordpress.com/2014/01/inssmouth_small_john_dunn2.jpg",
-            "alt": "Innsmouth",
-            "description": "The beautiful port of Innsmouth. Folk were nice, if a little flakey."
-        }
-    ],
-    "tips": [    
-        {
-            "tip": "You probably haven't heard of them pabst raw denim trust fund, irony crucifix migas try-hard distillery listicle chicharrones tumeric echo park before they sold out brunch."
-        },
-        {
-            "tip": "Truffaut pinterest selfies, pug fashion axe cold-pressed celiac."
-        },
-        {
-            "tip": "Heirloom bicycle rights pop-up art party man braid quinoa master cleanse shabby chic. Gluten-free farm-to-table woke fanny pack austin pabst banjo tumblr distillery edison bulb bicycle rights."
-        },
-        {
-            "tip": "Bespoke mixtape chartreuse, four loko plaid helvetica tattooed."
-        }
-    ],
-    "quotes": [
-        {
-            "quote": "I never drink water because of the disgusting things that fish do in it.",
-            "author": "Unknown"
-        },    
-        {
-            "quote": "You know when they have a fishing show on TV? They catch the fish and then let it go. They don't want to eat the fish, they just want to make it late for something.",
-            "author": "Mitch Hedberg"
-        },
-        {
-            "quote": "A fish may love a bird, but where would they live?",
-            "author": "Drew Barrymore"
-        }
-    ]
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "picture": "https://caribbeannewsservice.com/now/wp-content/uploads/2017/05/Caribbean-Sea.jpg",
+      "alt": "Beautiful picture of Caribbean Sea",
+      "description": "They should have stopped after the third Pirates movie!"
+    },
+    {
+      "id": 2,
+      "picture": "https://static2.thetravelimages.com/wordpress/wp-content/uploads/2018/12/sunken-ships-5.jpg",
+      "alt": "1935 Shipwreck In The Aegean Sea",
+      "description": "Where did we park again?"
+    },
+    {
+      "id": 3,
+      "picture": "https://i.imgur.com/iwl3w5K.jpg",
+      "alt": "The Grim Reaper telling you to turn around or you will die",
+      "description": "The no-no zone."
+    },
+    {
+      "id": 4,
+      "picture": "https://lovecraftianscience.files.wordpress.com/2014/01/inssmouth_small_john_dunn2.jpg",
+      "alt": "Innsmouth",
+      "description": "The beautiful port of Innsmouth. Folk were nice, if a little flakey."
+    }
+  ],
+  "tips": [
+    {
+      "id": 1,
+      "tip": "You probably haven't heard of them pabst raw denim trust fund, irony crucifix migas try-hard distillery listicle chicharrones tumeric echo park before they sold out brunch."
+    },
+    {
+      "id": 2,
+      "tip": "Truffaut pinterest selfies, pug fashion axe cold-pressed celiac."
+    },
+    {
+      "id": 3,
+      "tip": "Heirloom bicycle rights pop-up art party man braid quinoa master cleanse shabby chic. Gluten-free farm-to-table woke fanny pack austin pabst banjo tumblr distillery edison bulb bicycle rights."
+    },
+    {
+      "id": 4,
+      "tip": "Bespoke mixtape chartreuse, four loko plaid helvetica tattooed."
+    }
+  ],
+  "quotes": [
+    {
+      "id": 1,
+      "quote": "I never drink water because of the disgusting things that fish do in it.",
+      "author": "Unknown"
+    },
+    {
+      "id": 2,
+      "quote": "You know when they have a fishing show on TV? They catch the fish and then let it go. They don't want to eat the fish, they just want to make it late for something.",
+      "author": "Mitch Hedberg"
+    },
+    {
+      "id": 3,
+      "quote": "A fish may love a bird, but where would they live?",
+      "author": "Drew Barrymore"
+    }
+  ]
 }

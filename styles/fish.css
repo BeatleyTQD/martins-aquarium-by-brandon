@@ -26,10 +26,7 @@
     transform: scale(1.015) rotate(1deg);
 }
 
-.fish__details {
-    font-size: x-large;
-}
-
 .fish__list {
     list-style-type: none;
+    text-align: center;
 }       
