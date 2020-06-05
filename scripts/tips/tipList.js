@@ -2,6 +2,7 @@
 Responsible for generating a list of fish HTML
 representations, and putting in the browser
 */
+
 const tipList = () => {
     // Iterate the collection of tip objects
     for (const currentTipObject of tipCollection) {
@@ -16,3 +17,10 @@ const tipList = () => {
         tipArticleElement.innerHTML += tipHTML
     }
 }
+
+// Responsible for generating a hide/display button for tips
+const tipVisibilityButton = document.querySelector(".toggleTips")
+
+tipVisibilityButton.addEventListener("click", clickEvent => {
+    document.querySelector(".tipList").classList.toggle("hidden")
+})

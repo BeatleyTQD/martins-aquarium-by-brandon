@@ -1,3 +1,11 @@
+// Responsible for generating a hide/display button for locations
+const locationVisibilityButton = document.querySelector(".toggleLocations")
+
+locationVisibilityButton.addEventListener("click", clickEvent => {
+    document.querySelector(".locationList").classList.toggle("hidden")
+})
+
+
 /*
 Responsible for generating a list of location HTML
 representations, and putting in the browser

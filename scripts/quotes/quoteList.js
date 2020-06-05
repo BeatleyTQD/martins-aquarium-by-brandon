@@ -1,5 +1,15 @@
+
+// Responsible for generating a hide/display button for quotes
+
+const quoteVisibilityButton = document.querySelector(".toggleQuotes")
+
+quoteVisibilityButton.addEventListener("click", clickEvent => {
+    document.querySelector(".quoteList").classList.toggle("hidden")
+})
+
+
 /*
-Responsible for generating a list of fish HTML
+Responsible for generating a list of quote HTML
 representations, and putting in the browser
 */
 
