@@ -6,7 +6,7 @@
 .banner__logo__image {
     width: 30%;
     height: auto;
-    margin: 0px 0px -5px 0px;
+    margin: 0px 0px 0px 0px;
     flex:1;
 }
 
@@ -16,4 +16,19 @@
     text-align: center;
     text-shadow: 2px 2px 4px #FFBE86;
     flex:5;
+}
+
+.customization {
+    padding: 1em 0em 0em 0em;
+}
+
+button {
+    background-color: #FFBE86;
+    border: none;
+    color: black;
+    padding: 8px 7px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
 }
