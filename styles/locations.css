@@ -1,3 +1,11 @@
+.locationTitle {
+    text-align: center;
+    font-size: 3.5em;
+    margin: 1em 0em;
+    text-shadow: 2px 2px 4px #FFBE86;
+}
+
+
 .locationList {
     background-color: #eff6ee;
     display: flex;
@@ -14,7 +22,7 @@
     width:  20em;
     height: 20em;
     object-fit:cover;
-    border-radius: 180px;
+    border-radius: 90px;
     border: #676f54 10px inset;
     filter:drop-shadow(10px 10px 4px #9DACB2)
 }

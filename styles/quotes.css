@@ -2,11 +2,11 @@
     background-color: #eff6ee;
     display: flex;
     flex-direction: row;
-    padding: 1.5em 0em 0em 0em;
+    padding: 1.5em 0em;
 }
 
 .quote {
-    background-color: #eff6ee;
+    background-color: #e4eee3;
     margin: 1.5em;
     padding: 1.5em;
     text-align: center;

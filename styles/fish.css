@@ -1,9 +1,17 @@
+.fishTitle {
+    text-align: center;
+    font-size: 3.5em;
+    margin: 1em 0em;
+    text-shadow: 2px 2px 4px #FFBE86;
+}
+
+
 .fishList {
     background-color: #eff6ee;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    margin: 0em 0em 8em 0em;
+    margin: 0em 0em em 0em;
 }
 
 .fish {
@@ -15,8 +23,8 @@
 .fish__picture {
     width:  20em;
     height: 20em;
-    object-fit:cover;
-    border-radius: 180px;
+    object-fit: cover;
+    border-radius: 90px;
     border: #FFBE86 10px outset;
     transition: transform .3s;
     filter:drop-shadow(10px 10px 4px #9DACB2)
@@ -29,4 +37,5 @@
 .fish__list {
     list-style-type: none;
     text-align: center;
+    filter:drop-shadow(10px 10px 8px #9DACB2)
 }       
